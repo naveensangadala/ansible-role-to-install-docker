@@ -1,0 +1,5 @@
+---
+- hosts: test-ec2
+  gather_facts: yes
+  roles:
+    - docker-installation
