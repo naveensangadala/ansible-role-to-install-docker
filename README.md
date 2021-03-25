@@ -1,7 +1,7 @@
 Ansible-Role-to-Install-Docker
 ==============================
 
-Ansible role install docker on Linux servers 
+Ansible role to install docker on Linux servers 
 
 Pre-requisites:
 --------------
